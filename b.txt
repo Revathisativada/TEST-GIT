@@ -3,3 +3,5 @@ second file firts line
 adding 3rd line
 
 adding 4th line
+
+update after creating c file
