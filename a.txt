@@ -5,6 +5,7 @@ update after creating c file
 
 update after creating c file
 
+ADDING IN IDE INTELLIJ
 
 update after creating c file
 
@@ -12,3 +13,4 @@ to check the commands of reset
 
 updating for repository
 
+FUHIKAUHSIkahsia
